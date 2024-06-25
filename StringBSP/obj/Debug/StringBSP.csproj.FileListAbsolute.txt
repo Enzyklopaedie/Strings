@@ -1,0 +1,11 @@
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\bin\Debug\StringBSP.exe.config
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\bin\Debug\StringBSP.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\bin\Debug\StringBSP.pdb
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\obj\Debug\StringBSP.csproj.AssemblyReference.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\obj\Debug\StringBSP.csproj.SuggestedBindingRedirects.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\obj\Debug\StringBSP.Form1.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\obj\Debug\StringBSP.Properties.Resources.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\obj\Debug\StringBSP.csproj.GenerateResource.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\obj\Debug\StringBSP.csproj.CoreCompileInputs.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\obj\Debug\StringBSP.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\StringBSP\StringBSP\obj\Debug\StringBSP.pdb
